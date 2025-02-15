@@ -9,10 +9,6 @@
 - **Real-time Game State**: Built using Node.js to maintain and update the game state.
 - **Expo Integration**: Easy to run, build, and test the app using Expo.
 
-## Repository Link
-
-Access the repository [here](https://github.com/Moumita-Mou/Tic-Tac-Toe-Game-App).
-
 ## Installation
 
 To run the project locally, follow these steps:
